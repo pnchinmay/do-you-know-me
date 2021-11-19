@@ -1,0 +1,24 @@
+{
+  "name": "do-you-know-me",
+  "version": "1.0.0",
+  "description": "It is a 5 question quiz, based on basic Java Script to test how well do people know me.",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnchinmay/do-you-know-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pnchinmay/do-you-know-me/issues"
+  },
+  "homepage": "https://github.com/pnchinmay/do-you-know-me#readme"
+}
